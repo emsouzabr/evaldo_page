@@ -1,0 +1,11 @@
+@inproceedings{souza13underwater,
+	author = {Evaldo Souza and Hao Chi Wong and Italo Cunha and Antonio A.
+		F. Loureiro and Luiz F. M. Vieira and Leonardo B. Oliveira},
+	title = {{End-to-End Authentication in Under-Water Sensor Networks}},
+	booktitle = {Proc. IEEE Symposium on Computers and
+		Communications},
+	address = {Split, Croatia},
+	month = {July},
+	year = {2013}
+}
+
