@@ -1,9 +1,0 @@
-@incollection{silva2013segurancca,
-  title={Seguran{\c{c}}a de software em sistemas embarcados: Ataques \& defesas},
-  author={Silva, Bruno and da Silva Jr, Di{\'o}genes Cecilio and Souza, Evaldo M and Pereira, Fernando and Teixeira, Fernando A and Wong, Hao Chi and Nazar{\'e}, Henrique and Maffra, Izabela and Freire, Jean and Santos, Willer F and others},
-  booktitle={Minicursos do XIII Simp{\'o}sio Brasileiro de Seguran{\c{c}}a da Informa{\c{c}}{\~a}o e de Sistemas Computacionais},
-  publisher={Sociedade Brasileira de Computa{\c{c}}{\~a}o},
-  year={2013},
-  pages= {101-155},
-  chapter={3}
-}
